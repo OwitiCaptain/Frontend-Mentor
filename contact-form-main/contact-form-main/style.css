@@ -1,0 +1,53 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+    body {
+        background-color: bisque;
+    }
+
+    .contact-form {
+        display: inline-block;
+        background-color:cadetblue;
+        margin: 30px 180px 0 180px;
+        padding: 30px 50px 30px 50px;
+        border-radius: 15px;
+        box-shadow: aquamarine;
+        justify-content: center;
+    }
+
+   input {
+    border-radius: 4px;
+    padding: 5px;
+   }
+
+   .email {
+    width: 400px;
+   }
+
+   .enquiry {
+    border: 1px solid gray;
+    border-radius: 5px;
+    display: inline-block;
+   }
+
+   .support {
+    border: 1px solid gray;
+    border-radius: 5px;
+    display: inline-block;
+   }
+
+   .message {
+    border-radius: 5px;
+    width: 500px;
+   }
+
+   .button {
+    background-color: darkgreen;
+    color: aliceblue;
+    padding: 5px 40px 5px 40px;
+    text-align: center;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+   }
